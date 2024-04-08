@@ -86,6 +86,7 @@ function App() {
   return (
     <>
       {/* <Navbar></Navbar> */}
+      <h1> CIAO PIPPOOOOO </h1>
       <Example></Example>
       <CardForm addCity={aggiungiCity}></CardForm>
       <div className="grid grid-cols-4 gap-5">
